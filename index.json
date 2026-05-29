@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "updated": "2026-05-29T17:18:58.717910+00:00",
+  "candidates": {
+    "kotlin": {
+      "name": "Kotlin",
+      "latest": "2.3.21",
+      "detail": "candidates/kotlin.json"
+    },
+    "jmeter": {
+      "name": "JMeter",
+      "latest": "5.6.3",
+      "detail": "candidates/jmeter.json"
+    },
+    "tomcat": {
+      "name": "Tomcat",
+      "latest": "11.0.22",
+      "detail": "candidates/tomcat.json"
+    },
+    "hadoop": {
+      "name": "Hadoop",
+      "latest": "3.5.0",
+      "detail": "candidates/hadoop.json"
+    },
+    "maven": {
+      "name": "Maven",
+      "latest": "3.9.16",
+      "detail": "candidates/maven.json"
+    }
+  }
+}

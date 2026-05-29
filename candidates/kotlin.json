@@ -1,0 +1,760 @@
+{
+  "candidate": "kotlin",
+  "mirrors": {
+    "official": "https://github.com/JetBrains/kotlin/releases/download"
+  },
+  "versions": [
+    {
+      "version": "2.3.21",
+      "path": "/v2.3.21/kotlin-compiler-2.3.21.zip",
+      "sha": {
+        "sha": "a8cfc1d62cd4d0de4d04f42575e40135bd620588c17d568a20eb9c7c259af14f",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.3.20",
+      "path": "/v2.3.20/kotlin-compiler-2.3.20.zip",
+      "sha": {
+        "sha": "222ba516cdc4052ce0be9d2ec6adf3c5c64fc53156d7dd91d1f5317809431b98",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.3.10",
+      "path": "/v2.3.10/kotlin-compiler-2.3.10.zip",
+      "sha": {
+        "sha": "c8d546f9ff433b529fb0ad43feceb39831040cae2ca8d17e7df46364368c9a9e",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.3.0",
+      "path": "/v2.3.0/kotlin-compiler-2.3.0.zip",
+      "sha": {
+        "sha": "ea16ab1cab29d419bf41b60ecc0e305d449fa661d9c05fbcc5b2a6672505456a",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.2.21",
+      "path": "/v2.2.21/kotlin-compiler-2.2.21.zip",
+      "sha": {
+        "sha": "a623871f1cd9c938946948b70ef9170879f0758043885bbd30c32f024e511714",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.2.20",
+      "path": "/v2.2.20/kotlin-compiler-2.2.20.zip",
+      "sha": {
+        "sha": "81f0264c9073b5cbbdb3ff8418cf2c5dac076879fc156fa1a6462f5a5acc4420",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.2.10",
+      "path": "/v2.2.10/kotlin-compiler-2.2.10.zip",
+      "sha": {
+        "sha": "302d1d8e671e5c3207e6ed62ff11fb555462a628e22a1158254dcaaf7e7394bc",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.2.0",
+      "path": "/v2.2.0/kotlin-compiler-2.2.0.zip",
+      "sha": {
+        "sha": "1adb6f1a5845ba0aa5a59e412e44c8e405236b957de1a9683619f1dca3b16932",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.1.21",
+      "path": "/v2.1.21/kotlin-compiler-2.1.21.zip",
+      "sha": {
+        "sha": "1ba08a8b45da99339a0601134cc037b54cf85e9bc0edbe76dcbd27c2d684a977",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.1.20",
+      "path": "/v2.1.20/kotlin-compiler-2.1.20.zip",
+      "sha": {
+        "sha": "a118197b0de55ffab2bc8d5cd03a5e39033cfb53383d6931bc761dec0784891a",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.1.10",
+      "path": "/v2.1.10/kotlin-compiler-2.1.10.zip",
+      "sha": {
+        "sha": "c6e9e2636889828e19c8811d5ab890862538c89dc2a3101956dfee3c2a8ba6b1",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.1.0",
+      "path": "/v2.1.0/kotlin-compiler-2.1.0.zip",
+      "sha": {
+        "sha": "b6698d5728ad8f9edcdd01617d638073191d8a03139cc538a391b4e3759ad297",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.0.21",
+      "path": "/v2.0.21/kotlin-compiler-2.0.21.zip",
+      "sha": {
+        "sha": "0352c0a45bd22f80f6b26e485cd04da8047baa5de54865281fb9f89a4a7bcf2a",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.0.20",
+      "path": "/v2.0.20/kotlin-compiler-2.0.20.zip",
+      "sha": {
+        "sha": "5f5d2a8ad6a718a002acd0775b67a9e27035872fdbd4b0791e3cb3ea00095931",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.0.10",
+      "path": "/v2.0.10/kotlin-compiler-2.0.10.zip",
+      "sha": {
+        "sha": "88d7d8bad362ae4e114a8b9668c6887b8c85f48e340883db0e317e47c8dc2f4f",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.0.0",
+      "path": "/v2.0.0/kotlin-compiler-2.0.0.zip",
+      "sha": {
+        "sha": "ef578730976154fd2c5968d75af8c2703b3de84a78dffe913f670326e149da3b",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "1.9.25",
+      "path": "/v1.9.25/kotlin-compiler-1.9.25.zip",
+      "sha": {
+        "sha": "6ab72d6144e71cbbc380b770c2ad380972548c63ab6ed4c79f11c88f2967332e",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "1.9.24",
+      "path": "/v1.9.24/kotlin-compiler-1.9.24.zip",
+      "sha": {
+        "sha": "eb7b68e01029fa67bc8d060ee54c12018f2c60ddc438cf21db14517229aa693b",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "1.9.23",
+      "path": "/v1.9.23/kotlin-compiler-1.9.23.zip",
+      "sha": {
+        "sha": "93137d3aab9afa9b27cb06a824c2324195c6b6f6179d8a8653f440f5bd58be88",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "1.9.22",
+      "path": "/v1.9.22/kotlin-compiler-1.9.22.zip",
+      "sha": {
+        "sha": "88b39213506532c816ff56348c07bbeefe0c8d18943bffbad11063cf97cac3e6",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "1.9.21",
+      "path": "/v1.9.21/kotlin-compiler-1.9.21.zip",
+      "sha": {
+        "sha": "cf17e0272bc065d49e64a86953b73af06065370629f090d5b7c2fe353ccf9c1a",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "1.9.20",
+      "path": "/v1.9.20/kotlin-compiler-1.9.20.zip",
+      "sha": {
+        "sha": "15a8a2825b74ccf6c44e04e97672db802d2df75ce2fbb63ef0539bf3ae5006f0",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "1.9.10",
+      "path": "/v1.9.10/kotlin-compiler-1.9.10.zip",
+      "sha": {
+        "sha": "7d74863deecf8e0f28ea54c3735feab003d0eac67e8d3a791254b16889c20342",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "1.9.0",
+      "path": "/v1.9.0/kotlin-compiler-1.9.0.zip",
+      "sha": {
+        "sha": "1fc50d805f9809e92de43e91f089cc8618567c1a350faebdabf8a40c5048bee8",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "1.8.22",
+      "path": "/v1.8.22/kotlin-compiler-1.8.22.zip"
+    },
+    {
+      "version": "1.8.21",
+      "path": "/v1.8.21/kotlin-compiler-1.8.21.zip"
+    },
+    {
+      "version": "1.8.20",
+      "path": "/v1.8.20/kotlin-compiler-1.8.20.zip"
+    },
+    {
+      "version": "1.8.10",
+      "path": "/v1.8.10/kotlin-compiler-1.8.10.zip"
+    },
+    {
+      "version": "1.8.0",
+      "path": "/v1.8.0/kotlin-compiler-1.8.0.zip"
+    },
+    {
+      "version": "1.7.22",
+      "path": "/v1.7.22/kotlin-compiler-1.7.22.zip"
+    },
+    {
+      "version": "2.4.0-RC2",
+      "path": "/v2.4.0-RC2/kotlin-compiler-2.4.0-RC2.zip",
+      "sha": {
+        "sha": "26c59cd58a71059ba6739fc90254495f4a3735707e3d4791bf535c4890e38087",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.4.0-RC",
+      "path": "/v2.4.0-RC/kotlin-compiler-2.4.0-RC.zip",
+      "sha": {
+        "sha": "5c3699980e09a65328d56a16aa8896ba0a421ce97865ca287c623897bf20a98e",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.4.0-Beta2",
+      "path": "/v2.4.0-Beta2/kotlin-compiler-2.4.0-Beta2.zip",
+      "sha": {
+        "sha": "783f35984cd479eb4a5037e2219aaa2e5ae959ce370a64cf6a6ceb09900e909d",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.4.0-Beta1",
+      "path": "/v2.4.0-Beta1/kotlin-compiler-2.4.0-Beta1.zip",
+      "sha": {
+        "sha": "11640a65c5dec597450adbdcd608d37cea5bc18cffb36d74af9b2840de6dbfa1",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.3.21-RC2",
+      "path": "/v2.3.21-RC2/kotlin-compiler-2.3.21-RC2.zip",
+      "sha": {
+        "sha": "eabb4908a6fc73a003e916157e9e70a5d7f04ae4be0572fc5c8881fcbe8be755",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.3.21-RC",
+      "path": "/v2.3.21-RC/kotlin-compiler-2.3.21-RC.zip",
+      "sha": {
+        "sha": "25f4ef443116db18b5b850083e3430c825d14b94406e5911cc305d1e797c6e98",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.3.20-RC3",
+      "path": "/v2.3.20-RC3/kotlin-compiler-2.3.20-RC3.zip",
+      "sha": {
+        "sha": "dc7fb82cbeab5e309d0488d8173adb99dd73d2cdc811ab6384fd91696b37bfc4",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.3.20-RC2",
+      "path": "/v2.3.20-RC2/kotlin-compiler-2.3.20-RC2.zip",
+      "sha": {
+        "sha": "781b54a857ebcbbb6d5b6e5b4a54e2ad480d0b813ac65ed48c636ef4a81f8d90",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.3.20-RC",
+      "path": "/v2.3.20-RC/kotlin-compiler-2.3.20-RC.zip",
+      "sha": {
+        "sha": "9131133ba083ad3c16f848095455ce57002bec145d3e72b1a768439073e9d3b0",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.3.20-Beta2",
+      "path": "/v2.3.20-Beta2/kotlin-compiler-2.3.20-Beta2.zip",
+      "sha": {
+        "sha": "f283285accccdc8de18f5534d6a9fa18b42b2c1857c995bed978ba3816ebdf1e",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.3.20-Beta1",
+      "path": "/v2.3.20-Beta1/kotlin-compiler-2.3.20-Beta1.zip",
+      "sha": {
+        "sha": "44dd417f868bd462ea3827931b5294d05f17d4708fd646de25ccebfa0c62f239",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.3.10-RC2",
+      "path": "/v2.3.10-RC2/kotlin-compiler-2.3.10-RC2.zip",
+      "sha": {
+        "sha": "adbf128a300a518fec024b3b0a60c3c6023b7311eb208378aea304226b9fbcfa",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.3.10-RC",
+      "path": "/v2.3.10-RC/kotlin-compiler-2.3.10-RC.zip",
+      "sha": {
+        "sha": "54ac5ba7a08a013099a0bb13f39ecc1318cba5b3d1e9f75bebfee053c5b18786",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.3.0-RC3",
+      "path": "/v2.3.0-RC3/kotlin-compiler-2.3.0-RC3.zip",
+      "sha": {
+        "sha": "e7762963104fd73dc183e23eaafda874f6833af897661e4714057cef5cd10d83",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.3.0-RC2",
+      "path": "/v2.3.0-RC2/kotlin-compiler-2.3.0-RC2.zip",
+      "sha": {
+        "sha": "b66e39448a2d113b2fe147128445059e84bfedce96f469e20c59afbbbbdc33ab",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.3.0-RC",
+      "path": "/v2.3.0-RC/kotlin-compiler-2.3.0-RC.zip",
+      "sha": {
+        "sha": "6d76f184c8ee40aeba769f49420c4783102a1de9778e87912f1afe220fd4aa6d",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.3.0-Beta2",
+      "path": "/v2.3.0-Beta2/kotlin-compiler-2.3.0-Beta2.zip",
+      "sha": {
+        "sha": "bf01d5e826b4a8cb5dbb376533694bae8a4391009e9d6474cda6a0ff4f81ecfb",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.3.0-Beta1",
+      "path": "/v2.3.0-Beta1/kotlin-compiler-2.3.0-Beta1.zip",
+      "sha": {
+        "sha": "fb99278bd472abeaeab19fed567748fc317d660d4b3f7c468d2ee1ad30890a8a",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.2.21-RC2",
+      "path": "/v2.2.21-RC2/kotlin-compiler-2.2.21-RC2.zip",
+      "sha": {
+        "sha": "5ba386b366c4c89aa249a3fd14bd2dd4aa3bfefa901b56c8f9f94a562f5c3272",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.2.21-RC",
+      "path": "/v2.2.21-RC/kotlin-compiler-2.2.21-RC.zip",
+      "sha": {
+        "sha": "9ba6462068cce27f46e6d2aab3328eeb60f04317d475120fa7c8d6f75dae0770",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.2.20-RC2",
+      "path": "/v2.2.20-RC2/kotlin-compiler-2.2.20-RC2.zip",
+      "sha": {
+        "sha": "bb6de1e5c111366a1a77542513b07c1902cfa6d8c5125aab65c9eb20ccd39264",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.2.20-RC",
+      "path": "/v2.2.20-RC/kotlin-compiler-2.2.20-RC.zip",
+      "sha": {
+        "sha": "ad5edb7bee5ad178b810c229cbc11737830353a49b3e16e7e7ed430dd0af0771",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.2.20-Beta2",
+      "path": "/v2.2.20-Beta2/kotlin-compiler-2.2.20-Beta2.zip",
+      "sha": {
+        "sha": "e6615d5071f979dd708f50ce6cb8782b60c111e1584b03b366c91ca1ebf42d6e",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.2.20-Beta1",
+      "path": "/v2.2.20-Beta1/kotlin-compiler-2.2.20-Beta1.zip",
+      "sha": {
+        "sha": "ffee60928433ca8449b88cc6122aa079a3cd5ee1830ae64136895a28fc98168c",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.2.10-RC2",
+      "path": "/v2.2.10-RC2/kotlin-compiler-2.2.10-RC2.zip",
+      "sha": {
+        "sha": "2ed5dfb5b6e8c5eacbec9e052bcf3edc551b37a751a2e0a1f00f24ee084c2eb0",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.2.10-RC",
+      "path": "/v2.2.10-RC/kotlin-compiler-2.2.10-RC.zip",
+      "sha": {
+        "sha": "d3571a2671d6742faf8e0f6a408409ba2aab44f1f11c583f796ab02557028847",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.2.0-RC3",
+      "path": "/v2.2.0-RC3/kotlin-compiler-2.2.0-RC3.zip",
+      "sha": {
+        "sha": "8c9f40ff0e4ba93678d271ee45770ac1e9745f77c07617aad4160e43ed6589b0",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.2.0-RC2",
+      "path": "/v2.2.0-RC2/kotlin-compiler-2.2.0-RC2.zip",
+      "sha": {
+        "sha": "7c2623fcc338e22f5b60cc51500b8c0906f853db59a3f5ee79aa6033e478fb81",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.2.0-RC",
+      "path": "/v2.2.0-RC/kotlin-compiler-2.2.0-RC.zip",
+      "sha": {
+        "sha": "0a972ad9b495f5b4170a017fa4e24458c33a0b5719a9366da0133799c91edf46",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.2.0-Beta2",
+      "path": "/v2.2.0-Beta2/kotlin-compiler-2.2.0-Beta2.zip",
+      "sha": {
+        "sha": "cbf10e070957bea5a6796d3f9ed9c613fe0c6b7a3d1f00a61d192fbf69d0ecf1",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.2.0-Beta1",
+      "path": "/v2.2.0-Beta1/kotlin-compiler-2.2.0-Beta1.zip",
+      "sha": {
+        "sha": "9bc20f7d5f29b6184605e8c246a1e9f190628bd7e012ce6cff638e4302857c2b",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.1.21-RC2",
+      "path": "/v2.1.21-RC2/kotlin-compiler-2.1.21-RC2.zip",
+      "sha": {
+        "sha": "37232c077f129e0f2f55351468ac502e9a769e007e95e23a39e137222194321d",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.1.21-RC",
+      "path": "/v2.1.21-RC/kotlin-compiler-2.1.21-RC.zip",
+      "sha": {
+        "sha": "64e11eb20b7283e8ad1230e65442540a3366ffae324e320ceb82b0462ebc6312",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.1.20-RC3",
+      "path": "/v2.1.20-RC3/kotlin-compiler-2.1.20-RC3.zip",
+      "sha": {
+        "sha": "74c99a94aa3fd1e3b977abd97b74cae7291d80e67df374191a1fca77293538f8",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.1.20-RC2",
+      "path": "/v2.1.20-RC2/kotlin-compiler-2.1.20-RC2.zip",
+      "sha": {
+        "sha": "173c3043da6cb2a25eec533b3ebb84416f91315036f7ae1334e9aea40c17c34f",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.1.20-RC",
+      "path": "/v2.1.20-RC/kotlin-compiler-2.1.20-RC.zip",
+      "sha": {
+        "sha": "13cd6b3e9a5c8f756f4ab322a9fcf58ed557890b8692c510d966bb22051b4ded",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.1.20-Beta2",
+      "path": "/v2.1.20-Beta2/kotlin-compiler-2.1.20-Beta2.zip",
+      "sha": {
+        "sha": "2d24cfb0fd736d86f6aa52fb7bd117b00f5df73d8d99d030f35413ba06db490a",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.1.20-Beta1",
+      "path": "/v2.1.20-Beta1/kotlin-compiler-2.1.20-Beta1.zip",
+      "sha": {
+        "sha": "a4e655eb8370c6dde9deaf1271836dc6d1d0a667fb00efb2e99021d91e2cf8a4",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.1.10-RC2",
+      "path": "/v2.1.10-RC2/kotlin-compiler-2.1.10-RC2.zip",
+      "sha": {
+        "sha": "0f0cc2a84e60b28f36c58bca06b77e2cce2cf1498dfbc4ba99b21a6ed225b221",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.1.10-RC",
+      "path": "/v2.1.10-RC/kotlin-compiler-2.1.10-RC.zip",
+      "sha": {
+        "sha": "094e29fa6df63a837a49af97c45ee133010febe5cfee4629701ecf46a64c6bfd",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.1.0-RC2",
+      "path": "/v2.1.0-RC2/kotlin-compiler-2.1.0-RC2.zip",
+      "sha": {
+        "sha": "57cb206a7a23562d47bab6965d1aee0f43f5f7842ab5916e4d3fe5dcc6b9196e",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.1.0-RC",
+      "path": "/v2.1.0-RC/kotlin-compiler-2.1.0-RC.zip",
+      "sha": {
+        "sha": "865fec904a97e6eb71c5d6b0b5eee855f038664213255ae7de6908af72075c66",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.1.0-Beta2",
+      "path": "/v2.1.0-Beta2/kotlin-compiler-2.1.0-Beta2.zip",
+      "sha": {
+        "sha": "971935058c8de7f127d10828229aabee7b10375fd02d1a638252b276f7828f74",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.1.0-Beta1",
+      "path": "/v2.1.0-Beta1/kotlin-compiler-2.1.0-Beta1.zip",
+      "sha": {
+        "sha": "0b063bafcb39fbea8519c994dd4a3577e55a7dd2c45af6009d7727bef4149c4b",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.0.21-RC",
+      "path": "/v2.0.21-RC/kotlin-compiler-2.0.21-RC.zip",
+      "sha": {
+        "sha": "6cddf8cf1ccb4d2ac48b9955238db033ec191055af9c67f5511acd478fd8ebcb",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.0.20-RC2",
+      "path": "/v2.0.20-RC2/kotlin-compiler-2.0.20-RC2.zip",
+      "sha": {
+        "sha": "b840fdb04a526d1c331b2c4154b1b23e78a96b729e3efc859adfc2f6478ed1dc",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.0.20-RC",
+      "path": "/v2.0.20-RC/kotlin-compiler-2.0.20-RC.zip",
+      "sha": {
+        "sha": "acaa6a1e993edb78993037ff14162b622f5dd25b3941ba620381afbbed288951",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.0.20-Beta2",
+      "path": "/v2.0.20-Beta2/kotlin-compiler-2.0.20-Beta2.zip",
+      "sha": {
+        "sha": "fd6b09c859ddb7fd6726b040cc4f8215e867d29c268577d1c49f259783592be3",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.0.20-Beta1",
+      "path": "/v2.0.20-Beta1/kotlin-compiler-2.0.20-Beta1.zip",
+      "sha": {
+        "sha": "fda3406e486128d7c66202613b632c605e401c85f01362958a3a5792c443991b",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.0.10-RC2",
+      "path": "/v2.0.10-RC2/kotlin-compiler-2.0.10-RC2.zip",
+      "sha": {
+        "sha": "6248e0b9e6b9c0b91183e8e81c2855aeda84642c38743324b9773297b28f7899",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.0.10-RC",
+      "path": "/v2.0.10-RC/kotlin-compiler-2.0.10-RC.zip",
+      "sha": {
+        "sha": "05e73e7a02b36ba2437917366ef6389c041c76f702127af03a3fdb5338ff4ed4",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.0.0-RC3",
+      "path": "/v2.0.0-RC3/kotlin-compiler-2.0.0-RC3.zip",
+      "sha": {
+        "sha": "3c95bedafbe4aa1f749278ed305fe992e548a8c6d897640ab678ea703916166b",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.0.0-RC2",
+      "path": "/v2.0.0-RC2/kotlin-compiler-2.0.0-RC2.zip",
+      "sha": {
+        "sha": "f4d0a297c4b96e08ad6464a1de67c88d18d7459e7f42624f615382bf0783cb2d",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.0.0-RC1",
+      "path": "/v2.0.0-RC1/kotlin-compiler-2.0.0-RC1.zip",
+      "sha": {
+        "sha": "2bca1f5cae399283650b3a585bda759e0da48b11e9bbb6f8de3b05ad7f5eaa7f",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.0.0-Beta5",
+      "path": "/v2.0.0-Beta5/kotlin-compiler-2.0.0-Beta5.zip",
+      "sha": {
+        "sha": "2a4d493c82c55f97901cadef106d4eb8e35f20c3c288532c7a475c683c41f1bc",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.0.0-Beta4",
+      "path": "/v2.0.0-Beta4/kotlin-compiler-2.0.0-Beta4.zip",
+      "sha": {
+        "sha": "aa7ec35e8101a2186ddd31700a19f2b53081ac0b1a795f30eee37ae6b41f7da9",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.0.0-Beta3",
+      "path": "/v2.0.0-Beta3/kotlin-compiler-2.0.0-Beta3.zip",
+      "sha": {
+        "sha": "873272895e15eb596d73df8b6c6fb4e5678d262dd2974940cbf3755624797b58",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.0.0-Beta2",
+      "path": "/v2.0.0-Beta2/kotlin-compiler-2.0.0-Beta2.zip",
+      "sha": {
+        "sha": "a2866984b7e6ddd0aa4cab27bb3179d36116a72b62836df6f51d8d737b6f73b1",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "2.0.0-Beta1",
+      "path": "/v2.0.0-Beta1/kotlin-compiler-2.0.0-Beta1.zip",
+      "sha": {
+        "sha": "4cf6bea0d20463416936a5619293fa1c5931ab649496fe7045c12eedcf4136bd",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "1.9.20-RC2",
+      "path": "/v1.9.20-RC2/kotlin-compiler-1.9.20-RC2.zip",
+      "sha": {
+        "sha": "e7ecbb754203a427adcdfa97f609472e0840ef7c6722c04daaf218900b669728",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "1.9.20-RC",
+      "path": "/v1.9.20-RC/kotlin-compiler-1.9.20-RC.zip",
+      "sha": {
+        "sha": "12d0ff13c62aedeabb6e03a9619b59f8275ec9600b4de25560d5b451e1deafdf",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "1.9.20-Beta2",
+      "path": "/v1.9.20-Beta2/kotlin-compiler-1.9.20-Beta2.zip",
+      "sha": {
+        "sha": "2ec2dd53daae4acc1fd04fe95d42332e21a350a6f3384c63a18b079e90ab5576",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "1.9.20-Beta",
+      "path": "/v1.9.20-Beta/kotlin-compiler-1.9.20-Beta.zip",
+      "sha": {
+        "sha": "7cfb5bda0d0122345ba34ee263cc9a6e270babd71274cf809afc9fb15794d20e",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "1.9.0-RC",
+      "path": "/v1.9.0-RC/kotlin-compiler-1.9.0-RC.zip",
+      "sha": {
+        "sha": "d00312caa89de1dd3f62d80d5b31724efc333101616ba4a22caf4458862315e7",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "1.9.0-Beta",
+      "path": "/v1.9.0-Beta/kotlin-compiler-1.9.0-Beta.zip"
+    },
+    {
+      "version": "1.8.20-RC2",
+      "path": "/v1.8.20-RC2/kotlin-compiler-1.8.20-RC2.zip"
+    },
+    {
+      "version": "1.8.20-RC",
+      "path": "/v1.8.20-RC/kotlin-compiler-1.8.20-RC.zip"
+    },
+    {
+      "version": "1.8.20-Beta",
+      "path": "/v1.8.20-Beta/kotlin-compiler-1.8.20-Beta.zip"
+    },
+    {
+      "version": "1.8.0-RC2",
+      "path": "/v1.8.0-RC2/kotlin-compiler-1.8.0-RC2.zip"
+    },
+    {
+      "version": "1.8.0-RC",
+      "path": "/v1.8.0-RC/kotlin-compiler-1.8.0-RC.zip"
+    }
+  ]
+}

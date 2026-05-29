@@ -1,0 +1,192 @@
+{
+  "candidate": "jmeter",
+  "mirrors": {
+    "huawei": "https://repo.huaweicloud.com/apache",
+    "tencent": "https://mirrors.cloud.tencent.com/apache",
+    "official": "https://archive.apache.org/dist",
+    "tuna": "https://mirrors.tuna.tsinghua.edu.cn/apache",
+    "ustc": "https://mirrors.ustc.edu.cn/apache"
+  },
+  "versions": [
+    {
+      "version": "5.6.3",
+      "path": "/jmeter/binaries/apache-jmeter-5.6.3.tgz",
+      "sha": {
+        "sha": "5978a1a35edb5a7d428e270564ff49d2b1b257a65e17a759d259a9283fc17093e522fe46f474a043864aea6910683486340706d745fcdf3db1505fd71e689083",
+        "type": "sha512"
+      }
+    },
+    {
+      "version": "5.6.2",
+      "path": "/jmeter/binaries/apache-jmeter-5.6.2.tgz",
+      "sha": {
+        "sha": "5abe849f537ccdb17e3ea051e8c359f34e2cd9a112d831ef39aaaea59e42fb69acec853e99099a7527375dac5fa4a847ee150025d3191fa55aae64fbf3bb5289",
+        "type": "sha512"
+      }
+    },
+    {
+      "version": "5.6.1",
+      "path": "/jmeter/binaries/apache-jmeter-5.6.1.tgz",
+      "sha": {
+        "sha": "0ba2feb541d4f7fd22536e5e9388dcee2edc5684a9431848d2f4ec8e4a282f427f80cd573704011f635c6ea7a8cb38d622be34e90324fa14f9dbbb47f7d9d7ae",
+        "type": "sha512"
+      }
+    },
+    {
+      "version": "5.6",
+      "path": "/jmeter/binaries/apache-jmeter-5.6.tgz",
+      "sha": {
+        "sha": "a7ebf74d6b5aa60d94cac61e0f25f9eaae146dcc35ff1ae0224c987d800bbfa683a45676bcc27d47cd945652c8296a31d911caa63919b3d0b0595eda4fd2978c",
+        "type": "sha512"
+      }
+    },
+    {
+      "version": "5.5",
+      "path": "/jmeter/binaries/apache-jmeter-5.5.tgz",
+      "sha": {
+        "sha": "d5d1ce795e9baf18efd3a13ecda150b4da80c3173a2c7ef0da2a5546ac6862b1edd2a2f4e52d971c7da05d879362c28dca6bf218c5f7570b5cc98f7ba73c92af",
+        "type": "sha512"
+      }
+    },
+    {
+      "version": "5.4.3",
+      "path": "/jmeter/binaries/apache-jmeter-5.4.3.tgz",
+      "sha": {
+        "sha": "e88802cc0dfcd6a2c8554911ae4574d7cfafcc8c6be6ade810b4677b7351831b0680d81cf2b0fb5bb4b9b3cf437528a044d7da74214a1bee351b273dbb53e439",
+        "type": "sha512"
+      }
+    },
+    {
+      "version": "5.4.2",
+      "path": "/jmeter/binaries/apache-jmeter-5.4.2.tgz",
+      "sha": {
+        "sha": "5eaf0ad4ef8941080c0cf1d7fb732c6d14e3d16ac900885b912a62bea24210adcc9c9a09cb0f028f0253e3f6f785800aec2f3dda92121d0259dcda09223a0de1",
+        "type": "sha512"
+      }
+    },
+    {
+      "version": "5.4.1",
+      "path": "/jmeter/binaries/apache-jmeter-5.4.1.tgz",
+      "sha": {
+        "sha": "bfc0faa84769b58c1fd498417b3a5c65749f52226bd6e3533f08ca7ea4a3798bb8d2cbd7091b443dd6837f3cbea5565c3c18e6497b40bec95616bf44dfdf590d",
+        "type": "sha512"
+      }
+    },
+    {
+      "version": "5.4",
+      "path": "/jmeter/binaries/apache-jmeter-5.4.tgz",
+      "sha": {
+        "sha": "47e4d6fe4ba327685636a0dd170a1732cf9010873a245c7e77dea42f579ebc8aabbab956f5087a9a16333b7ef964caaa3a187fead4825168decdfd4d1d2ae85a",
+        "type": "sha512"
+      }
+    },
+    {
+      "version": "5.3",
+      "path": "/jmeter/binaries/apache-jmeter-5.3.tgz",
+      "sha": {
+        "sha": "922195b901358c2bf0d454e4b19fa2b45f072f0e0327b06c229935c2de0b785b641e7a58ceaa4682cf3643aeed4915256ae003b487b0c9a2144bb33c2b12e28e",
+        "type": "sha512"
+      }
+    },
+    {
+      "version": "5.2.1",
+      "path": "/jmeter/binaries/apache-jmeter-5.2.1.tgz",
+      "sha": {
+        "sha": "3e67b2c5c5c2bbcfcc6adce8fe76a9a23153d52a92208e52548a3af02b18a6ee527e6a451ddb91f90f5e317db6bb298bdef5f31a1ab8b2452e56e5fe3af77d90",
+        "type": "sha512"
+      }
+    },
+    {
+      "version": "5.2",
+      "path": "/jmeter/binaries/apache-jmeter-5.2.tgz",
+      "sha": {
+        "sha": "edf26274488bda32daed1ca95701dbae860161876fa209e5617ba3c90d038f59bd845bf5bfa648f2d41066ac488b0e2484f437c0c858f35b708606043e584149",
+        "type": "sha512"
+      }
+    },
+    {
+      "version": "5.1.1",
+      "path": "/jmeter/binaries/apache-jmeter-5.1.1.tgz",
+      "sha": {
+        "sha": "8eceafbcc3fdedd46f7357467f9ecd351f01e10e9c6c4f166895d535e1d08a6894f9eab1ddc6aa3a0335d53cab1738933e72fdb6aa92692afab54c0671886d4f",
+        "type": "sha512"
+      }
+    },
+    {
+      "version": "5.1",
+      "path": "/jmeter/binaries/apache-jmeter-5.1.tgz",
+      "sha": {
+        "sha": "c9d50ec3d44754abdb0fa7850e119fb2103f88e8c390de01697faf7998e3c3a4de929cf5ead069a9ec47643ca6c51aed7ab964483656a89e0b50a9e2ea7018b6",
+        "type": "sha512"
+      }
+    },
+    {
+      "version": "5.0",
+      "path": "/jmeter/binaries/apache-jmeter-5.0.tgz",
+      "sha": {
+        "sha": "a5a3bdd84ec8f78b67cee1b12bd9f2f578f3e9334ef2dc85cebd37878e0cf69ea3385a9c4f531dae094c0a4df93f262f43c2d9a9dfb10d38565d17eec3f907f1",
+        "type": "sha512"
+      }
+    },
+    {
+      "version": "4.0",
+      "path": "/jmeter/binaries/apache-jmeter-4.0.tgz",
+      "sha": {
+        "sha": "eee7d68bd1f7e7b269fabaf8f09821697165518b112a979a25c5f128c4de8ca6ad12d3b20cd9380a2b53ca52762b4c4979e564a8c2ff37196692fbd217f1e343",
+        "type": "sha512"
+      }
+    },
+    {
+      "version": "3.3",
+      "path": "/jmeter/binaries/apache-jmeter-3.3.tgz",
+      "sha": {
+        "sha": "82d5013b7cc1b3de4e720fe01be108c62673e8da03be6951e2d2dbf8db288d56ae424533a0d5f9fab55a2a0618031da58e2317d06b67bf28b6d0b92210eecb93",
+        "type": "sha512"
+      }
+    },
+    {
+      "version": "3.2",
+      "path": "/jmeter/binaries/apache-jmeter-3.2.tgz"
+    },
+    {
+      "version": "3.1",
+      "path": "/jmeter/binaries/apache-jmeter-3.1.tgz"
+    },
+    {
+      "version": "3.0",
+      "path": "/jmeter/binaries/apache-jmeter-3.0.tgz"
+    },
+    {
+      "version": "2.13",
+      "path": "/jmeter/binaries/apache-jmeter-2.13.tgz"
+    },
+    {
+      "version": "2.12",
+      "path": "/jmeter/binaries/apache-jmeter-2.12.tgz"
+    },
+    {
+      "version": "2.11",
+      "path": "/jmeter/binaries/apache-jmeter-2.11.tgz"
+    },
+    {
+      "version": "2.10",
+      "path": "/jmeter/binaries/apache-jmeter-2.10.tgz"
+    },
+    {
+      "version": "2.9",
+      "path": "/jmeter/binaries/apache-jmeter-2.9.tgz"
+    },
+    {
+      "version": "2.8",
+      "path": "/jmeter/binaries/apache-jmeter-2.8.tgz"
+    },
+    {
+      "version": "2.7",
+      "path": "/jmeter/binaries/apache-jmeter-2.7.tgz"
+    },
+    {
+      "version": "2.6",
+      "path": "/jmeter/binaries/apache-jmeter-2.6.tgz"
+    }
+  ]
+}
