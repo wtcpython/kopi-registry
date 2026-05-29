@@ -3,8 +3,8 @@
   "mirrors": {
     "tencent": "https://mirrors.cloud.tencent.com/apache",
     "tuna": "https://mirrors.tuna.tsinghua.edu.cn/apache",
-    "huawei": "https://repo.huaweicloud.com/apache",
     "official": "https://archive.apache.org/dist",
+    "huawei": "https://repo.huaweicloud.com/apache",
     "ustc": "https://mirrors.ustc.edu.cn/apache"
   },
   "versions": [
