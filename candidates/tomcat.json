@@ -1,10 +1,10 @@
 {
   "candidate": "tomcat",
   "mirrors": {
+    "ustc": "https://mirrors.ustc.edu.cn/apache",
     "tuna": "https://mirrors.tuna.tsinghua.edu.cn/apache",
     "official": "https://archive.apache.org/dist",
     "huawei": "https://repo.huaweicloud.com/apache",
-    "ustc": "https://mirrors.ustc.edu.cn/apache",
     "tencent": "https://mirrors.cloud.tencent.com/apache"
   },
   "versions": [

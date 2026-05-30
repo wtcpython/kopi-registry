@@ -1,11 +1,11 @@
 {
   "candidate": "maven",
   "mirrors": {
+    "tuna": "https://mirrors.tuna.tsinghua.edu.cn/apache",
     "huawei": "https://repo.huaweicloud.com/apache",
     "official": "https://archive.apache.org/dist",
-    "tencent": "https://mirrors.cloud.tencent.com/apache",
     "ustc": "https://mirrors.ustc.edu.cn/apache",
-    "tuna": "https://mirrors.tuna.tsinghua.edu.cn/apache"
+    "tencent": "https://mirrors.cloud.tencent.com/apache"
   },
   "versions": [
     {

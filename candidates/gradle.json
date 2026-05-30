@@ -1,8 +1,8 @@
 {
   "candidate": "gradle",
   "mirrors": {
-    "huawei": "https://repo.huaweicloud.com/gradle",
     "tencent": "https://mirrors.cloud.tencent.com/gradle",
+    "huawei": "https://repo.huaweicloud.com/gradle",
     "official": "https://services.gradle.org/distributions"
   },
   "versions": [
@@ -1335,10 +1335,10 @@
       }
     },
     {
-      "version": "9.7.0-20260528011136+0000",
-      "path": "/gradle-9.7.0-20260528011136+0000-bin.zip",
+      "version": "9.7.0-20260530010054+0000",
+      "path": "/gradle-9.7.0-20260530010054+0000-bin.zip",
       "sha": {
-        "sha": "bb10c45e705c07bb02edde60230606cf81cbbd40a65b52277836845760359c5a",
+        "sha": "e73c79426bf56d892be608eb754e4f3b15e7c7089ba5c4229d4ad516c7033ea5",
         "type": "sha256"
       }
     },

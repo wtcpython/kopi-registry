@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-05-29T18:33:08.146863268+00:00",
+  "updated": "2026-05-30T06:41:17.755184722+00:00",
   "candidates": {
     "jmeter": {
       "name": "JMeter",
@@ -12,6 +12,11 @@
       "latest": "9.5.1",
       "detail": "candidates/gradle.json"
     },
+    "hadoop": {
+      "name": "Hadoop",
+      "latest": "3.5.0",
+      "detail": "candidates/hadoop.json"
+    },
     "kotlin": {
       "name": "Kotlin",
       "latest": "2.3.21",
@@ -21,11 +26,6 @@
       "name": "Maven",
       "latest": "3.9.16",
       "detail": "candidates/maven.json"
-    },
-    "hadoop": {
-      "name": "Hadoop",
-      "latest": "3.5.0",
-      "detail": "candidates/hadoop.json"
     },
     "tomcat": {
       "name": "Tomcat",
