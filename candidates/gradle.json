@@ -1,9 +1,9 @@
 {
   "candidate": "gradle",
   "mirrors": {
-    "tencent": "https://mirrors.cloud.tencent.com/gradle",
+    "official": "https://services.gradle.org/distributions",
     "huawei": "https://repo.huaweicloud.com/gradle",
-    "official": "https://services.gradle.org/distributions"
+    "tencent": "https://mirrors.cloud.tencent.com/gradle"
   },
   "versions": [
     {
