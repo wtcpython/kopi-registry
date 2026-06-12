@@ -1,0 +1,39 @@
+name: Generate Registry
+
+on:
+  schedule:
+    - cron: "37 3 * * *"   # daily at 03:37 UTC
+  workflow_dispatch:
+
+concurrency:
+  group: generate-registry
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v6.0.3
+
+      - uses: dtolnay/rust-toolchain@stable
+
+      - uses: Swatinem/rust-cache@v2.9.1
+
+      - name: Generate JSON
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: cargo run --release
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add index.json candidates/
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "chore: update registry data"
+            git push
+          fi

@@ -1,0 +1,408 @@
+{
+  "candidate": "kotlin",
+  "mirrors": {
+    "official": "https://github.com/JetBrains/kotlin/releases/download"
+  },
+  "versions": [
+    {
+      "version": "2.4.0",
+      "path": "/v2.4.0/kotlin-compiler-2.4.0.zip"
+    },
+    {
+      "version": "2.3.21",
+      "path": "/v2.3.21/kotlin-compiler-2.3.21.zip"
+    },
+    {
+      "version": "2.3.20",
+      "path": "/v2.3.20/kotlin-compiler-2.3.20.zip"
+    },
+    {
+      "version": "2.3.10",
+      "path": "/v2.3.10/kotlin-compiler-2.3.10.zip"
+    },
+    {
+      "version": "2.3.0",
+      "path": "/v2.3.0/kotlin-compiler-2.3.0.zip"
+    },
+    {
+      "version": "2.2.21",
+      "path": "/v2.2.21/kotlin-compiler-2.2.21.zip"
+    },
+    {
+      "version": "2.2.20",
+      "path": "/v2.2.20/kotlin-compiler-2.2.20.zip"
+    },
+    {
+      "version": "2.2.10",
+      "path": "/v2.2.10/kotlin-compiler-2.2.10.zip"
+    },
+    {
+      "version": "2.2.0",
+      "path": "/v2.2.0/kotlin-compiler-2.2.0.zip"
+    },
+    {
+      "version": "2.1.21",
+      "path": "/v2.1.21/kotlin-compiler-2.1.21.zip"
+    },
+    {
+      "version": "2.1.20",
+      "path": "/v2.1.20/kotlin-compiler-2.1.20.zip"
+    },
+    {
+      "version": "2.1.10",
+      "path": "/v2.1.10/kotlin-compiler-2.1.10.zip"
+    },
+    {
+      "version": "2.1.0",
+      "path": "/v2.1.0/kotlin-compiler-2.1.0.zip"
+    },
+    {
+      "version": "2.0.21",
+      "path": "/v2.0.21/kotlin-compiler-2.0.21.zip"
+    },
+    {
+      "version": "2.0.20",
+      "path": "/v2.0.20/kotlin-compiler-2.0.20.zip"
+    },
+    {
+      "version": "2.0.10",
+      "path": "/v2.0.10/kotlin-compiler-2.0.10.zip"
+    },
+    {
+      "version": "2.0.0",
+      "path": "/v2.0.0/kotlin-compiler-2.0.0.zip"
+    },
+    {
+      "version": "1.9.25",
+      "path": "/v1.9.25/kotlin-compiler-1.9.25.zip"
+    },
+    {
+      "version": "1.9.24",
+      "path": "/v1.9.24/kotlin-compiler-1.9.24.zip"
+    },
+    {
+      "version": "1.9.23",
+      "path": "/v1.9.23/kotlin-compiler-1.9.23.zip"
+    },
+    {
+      "version": "1.9.22",
+      "path": "/v1.9.22/kotlin-compiler-1.9.22.zip"
+    },
+    {
+      "version": "1.9.21",
+      "path": "/v1.9.21/kotlin-compiler-1.9.21.zip"
+    },
+    {
+      "version": "1.9.20",
+      "path": "/v1.9.20/kotlin-compiler-1.9.20.zip"
+    },
+    {
+      "version": "1.9.10",
+      "path": "/v1.9.10/kotlin-compiler-1.9.10.zip"
+    },
+    {
+      "version": "1.9.0",
+      "path": "/v1.9.0/kotlin-compiler-1.9.0.zip"
+    },
+    {
+      "version": "1.8.22",
+      "path": "/v1.8.22/kotlin-compiler-1.8.22.zip"
+    },
+    {
+      "version": "1.8.21",
+      "path": "/v1.8.21/kotlin-compiler-1.8.21.zip"
+    },
+    {
+      "version": "1.8.20",
+      "path": "/v1.8.20/kotlin-compiler-1.8.20.zip"
+    },
+    {
+      "version": "1.8.10",
+      "path": "/v1.8.10/kotlin-compiler-1.8.10.zip"
+    },
+    {
+      "version": "1.8.0",
+      "path": "/v1.8.0/kotlin-compiler-1.8.0.zip"
+    },
+    {
+      "version": "2.4.0-RC2",
+      "path": "/v2.4.0-RC2/kotlin-compiler-2.4.0-RC2.zip"
+    },
+    {
+      "version": "2.4.0-RC",
+      "path": "/v2.4.0-RC/kotlin-compiler-2.4.0-RC.zip"
+    },
+    {
+      "version": "2.4.0-Beta2",
+      "path": "/v2.4.0-Beta2/kotlin-compiler-2.4.0-Beta2.zip"
+    },
+    {
+      "version": "2.4.0-Beta1",
+      "path": "/v2.4.0-Beta1/kotlin-compiler-2.4.0-Beta1.zip"
+    },
+    {
+      "version": "2.3.21-RC2",
+      "path": "/v2.3.21-RC2/kotlin-compiler-2.3.21-RC2.zip"
+    },
+    {
+      "version": "2.3.21-RC",
+      "path": "/v2.3.21-RC/kotlin-compiler-2.3.21-RC.zip"
+    },
+    {
+      "version": "2.3.20-RC3",
+      "path": "/v2.3.20-RC3/kotlin-compiler-2.3.20-RC3.zip"
+    },
+    {
+      "version": "2.3.20-RC2",
+      "path": "/v2.3.20-RC2/kotlin-compiler-2.3.20-RC2.zip"
+    },
+    {
+      "version": "2.3.20-RC",
+      "path": "/v2.3.20-RC/kotlin-compiler-2.3.20-RC.zip"
+    },
+    {
+      "version": "2.3.20-Beta2",
+      "path": "/v2.3.20-Beta2/kotlin-compiler-2.3.20-Beta2.zip"
+    },
+    {
+      "version": "2.3.20-Beta1",
+      "path": "/v2.3.20-Beta1/kotlin-compiler-2.3.20-Beta1.zip"
+    },
+    {
+      "version": "2.3.10-RC2",
+      "path": "/v2.3.10-RC2/kotlin-compiler-2.3.10-RC2.zip"
+    },
+    {
+      "version": "2.3.10-RC",
+      "path": "/v2.3.10-RC/kotlin-compiler-2.3.10-RC.zip"
+    },
+    {
+      "version": "2.3.0-RC3",
+      "path": "/v2.3.0-RC3/kotlin-compiler-2.3.0-RC3.zip"
+    },
+    {
+      "version": "2.3.0-RC2",
+      "path": "/v2.3.0-RC2/kotlin-compiler-2.3.0-RC2.zip"
+    },
+    {
+      "version": "2.3.0-RC",
+      "path": "/v2.3.0-RC/kotlin-compiler-2.3.0-RC.zip"
+    },
+    {
+      "version": "2.3.0-Beta2",
+      "path": "/v2.3.0-Beta2/kotlin-compiler-2.3.0-Beta2.zip"
+    },
+    {
+      "version": "2.3.0-Beta1",
+      "path": "/v2.3.0-Beta1/kotlin-compiler-2.3.0-Beta1.zip"
+    },
+    {
+      "version": "2.2.21-RC2",
+      "path": "/v2.2.21-RC2/kotlin-compiler-2.2.21-RC2.zip"
+    },
+    {
+      "version": "2.2.21-RC",
+      "path": "/v2.2.21-RC/kotlin-compiler-2.2.21-RC.zip"
+    },
+    {
+      "version": "2.2.20-RC2",
+      "path": "/v2.2.20-RC2/kotlin-compiler-2.2.20-RC2.zip"
+    },
+    {
+      "version": "2.2.20-RC",
+      "path": "/v2.2.20-RC/kotlin-compiler-2.2.20-RC.zip"
+    },
+    {
+      "version": "2.2.20-Beta2",
+      "path": "/v2.2.20-Beta2/kotlin-compiler-2.2.20-Beta2.zip"
+    },
+    {
+      "version": "2.2.20-Beta1",
+      "path": "/v2.2.20-Beta1/kotlin-compiler-2.2.20-Beta1.zip"
+    },
+    {
+      "version": "2.2.10-RC2",
+      "path": "/v2.2.10-RC2/kotlin-compiler-2.2.10-RC2.zip"
+    },
+    {
+      "version": "2.2.10-RC",
+      "path": "/v2.2.10-RC/kotlin-compiler-2.2.10-RC.zip"
+    },
+    {
+      "version": "2.2.0-RC3",
+      "path": "/v2.2.0-RC3/kotlin-compiler-2.2.0-RC3.zip"
+    },
+    {
+      "version": "2.2.0-RC2",
+      "path": "/v2.2.0-RC2/kotlin-compiler-2.2.0-RC2.zip"
+    },
+    {
+      "version": "2.2.0-RC",
+      "path": "/v2.2.0-RC/kotlin-compiler-2.2.0-RC.zip"
+    },
+    {
+      "version": "2.2.0-Beta2",
+      "path": "/v2.2.0-Beta2/kotlin-compiler-2.2.0-Beta2.zip"
+    },
+    {
+      "version": "2.2.0-Beta1",
+      "path": "/v2.2.0-Beta1/kotlin-compiler-2.2.0-Beta1.zip"
+    },
+    {
+      "version": "2.1.21-RC2",
+      "path": "/v2.1.21-RC2/kotlin-compiler-2.1.21-RC2.zip"
+    },
+    {
+      "version": "2.1.21-RC",
+      "path": "/v2.1.21-RC/kotlin-compiler-2.1.21-RC.zip"
+    },
+    {
+      "version": "2.1.20-RC3",
+      "path": "/v2.1.20-RC3/kotlin-compiler-2.1.20-RC3.zip"
+    },
+    {
+      "version": "2.1.20-RC2",
+      "path": "/v2.1.20-RC2/kotlin-compiler-2.1.20-RC2.zip"
+    },
+    {
+      "version": "2.1.20-RC",
+      "path": "/v2.1.20-RC/kotlin-compiler-2.1.20-RC.zip"
+    },
+    {
+      "version": "2.1.20-Beta2",
+      "path": "/v2.1.20-Beta2/kotlin-compiler-2.1.20-Beta2.zip"
+    },
+    {
+      "version": "2.1.20-Beta1",
+      "path": "/v2.1.20-Beta1/kotlin-compiler-2.1.20-Beta1.zip"
+    },
+    {
+      "version": "2.1.10-RC2",
+      "path": "/v2.1.10-RC2/kotlin-compiler-2.1.10-RC2.zip"
+    },
+    {
+      "version": "2.1.10-RC",
+      "path": "/v2.1.10-RC/kotlin-compiler-2.1.10-RC.zip"
+    },
+    {
+      "version": "2.1.0-RC2",
+      "path": "/v2.1.0-RC2/kotlin-compiler-2.1.0-RC2.zip"
+    },
+    {
+      "version": "2.1.0-RC",
+      "path": "/v2.1.0-RC/kotlin-compiler-2.1.0-RC.zip"
+    },
+    {
+      "version": "2.1.0-Beta2",
+      "path": "/v2.1.0-Beta2/kotlin-compiler-2.1.0-Beta2.zip"
+    },
+    {
+      "version": "2.1.0-Beta1",
+      "path": "/v2.1.0-Beta1/kotlin-compiler-2.1.0-Beta1.zip"
+    },
+    {
+      "version": "2.0.21-RC",
+      "path": "/v2.0.21-RC/kotlin-compiler-2.0.21-RC.zip"
+    },
+    {
+      "version": "2.0.20-RC2",
+      "path": "/v2.0.20-RC2/kotlin-compiler-2.0.20-RC2.zip"
+    },
+    {
+      "version": "2.0.20-RC",
+      "path": "/v2.0.20-RC/kotlin-compiler-2.0.20-RC.zip"
+    },
+    {
+      "version": "2.0.20-Beta2",
+      "path": "/v2.0.20-Beta2/kotlin-compiler-2.0.20-Beta2.zip"
+    },
+    {
+      "version": "2.0.20-Beta1",
+      "path": "/v2.0.20-Beta1/kotlin-compiler-2.0.20-Beta1.zip"
+    },
+    {
+      "version": "2.0.10-RC2",
+      "path": "/v2.0.10-RC2/kotlin-compiler-2.0.10-RC2.zip"
+    },
+    {
+      "version": "2.0.10-RC",
+      "path": "/v2.0.10-RC/kotlin-compiler-2.0.10-RC.zip"
+    },
+    {
+      "version": "2.0.0-RC3",
+      "path": "/v2.0.0-RC3/kotlin-compiler-2.0.0-RC3.zip"
+    },
+    {
+      "version": "2.0.0-RC2",
+      "path": "/v2.0.0-RC2/kotlin-compiler-2.0.0-RC2.zip"
+    },
+    {
+      "version": "2.0.0-RC1",
+      "path": "/v2.0.0-RC1/kotlin-compiler-2.0.0-RC1.zip"
+    },
+    {
+      "version": "2.0.0-Beta5",
+      "path": "/v2.0.0-Beta5/kotlin-compiler-2.0.0-Beta5.zip"
+    },
+    {
+      "version": "2.0.0-Beta4",
+      "path": "/v2.0.0-Beta4/kotlin-compiler-2.0.0-Beta4.zip"
+    },
+    {
+      "version": "2.0.0-Beta3",
+      "path": "/v2.0.0-Beta3/kotlin-compiler-2.0.0-Beta3.zip"
+    },
+    {
+      "version": "2.0.0-Beta2",
+      "path": "/v2.0.0-Beta2/kotlin-compiler-2.0.0-Beta2.zip"
+    },
+    {
+      "version": "2.0.0-Beta1",
+      "path": "/v2.0.0-Beta1/kotlin-compiler-2.0.0-Beta1.zip"
+    },
+    {
+      "version": "1.9.20-RC2",
+      "path": "/v1.9.20-RC2/kotlin-compiler-1.9.20-RC2.zip"
+    },
+    {
+      "version": "1.9.20-RC",
+      "path": "/v1.9.20-RC/kotlin-compiler-1.9.20-RC.zip"
+    },
+    {
+      "version": "1.9.20-Beta2",
+      "path": "/v1.9.20-Beta2/kotlin-compiler-1.9.20-Beta2.zip"
+    },
+    {
+      "version": "1.9.20-Beta",
+      "path": "/v1.9.20-Beta/kotlin-compiler-1.9.20-Beta.zip"
+    },
+    {
+      "version": "1.9.0-RC",
+      "path": "/v1.9.0-RC/kotlin-compiler-1.9.0-RC.zip"
+    },
+    {
+      "version": "1.9.0-Beta",
+      "path": "/v1.9.0-Beta/kotlin-compiler-1.9.0-Beta.zip"
+    },
+    {
+      "version": "1.8.20-RC2",
+      "path": "/v1.8.20-RC2/kotlin-compiler-1.8.20-RC2.zip"
+    },
+    {
+      "version": "1.8.20-RC",
+      "path": "/v1.8.20-RC/kotlin-compiler-1.8.20-RC.zip"
+    },
+    {
+      "version": "1.8.20-Beta",
+      "path": "/v1.8.20-Beta/kotlin-compiler-1.8.20-Beta.zip"
+    },
+    {
+      "version": "1.8.0-RC2",
+      "path": "/v1.8.0-RC2/kotlin-compiler-1.8.0-RC2.zip"
+    },
+    {
+      "version": "1.8.0-RC",
+      "path": "/v1.8.0-RC/kotlin-compiler-1.8.0-RC.zip"
+    }
+  ]
+}
