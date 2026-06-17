@@ -1343,6 +1343,14 @@
       }
     },
     {
+      "version": "9.6.0-rc-3",
+      "path": "/gradle-9.6.0-rc-3-bin.zip",
+      "sha": {
+        "sha": "6e3106016ed5b19bfdef316441777a132cda19e167ad90015e053db423fb5dd6",
+        "type": "sha256"
+      }
+    },
+    {
       "version": "9.6.0-20260616015404+0000",
       "path": "/gradle-9.6.0-20260616015404+0000-bin.zip",
       "sha": {
