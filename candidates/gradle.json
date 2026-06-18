@@ -1335,10 +1335,26 @@
       }
     },
     {
-      "version": "9.7.0-20260616020704+0000",
-      "path": "/gradle-9.7.0-20260616020704+0000-bin.zip",
+      "version": "9.7.0-20260618004045+0000",
+      "path": "/gradle-9.7.0-20260618004045+0000-bin.zip",
       "sha": {
-        "sha": "4e28aa139ceb93f3533caeba2a155f01a6189065864f673692869a1f435ac45b",
+        "sha": "f4c5c518aadb27a63f3bc0b42d77c093ea05df33fd64b820d342a32e6ad8ae1d",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "9.7.0-milestone-1",
+      "path": "/gradle-9.7.0-milestone-1-bin.zip",
+      "sha": {
+        "sha": "cca479af418ddb4bf6012f18369e4f40735b075dc87fb66722adaace6a97c982",
+        "type": "sha256"
+      }
+    },
+    {
+      "version": "9.6.0-20260617124657+0000",
+      "path": "/gradle-9.6.0-20260617124657+0000-bin.zip",
+      "sha": {
+        "sha": "693b8819661c834133c21706f83f9088aca852f99655c5f3c57528ee75079831",
         "type": "sha256"
       }
     },
@@ -1347,14 +1363,6 @@
       "path": "/gradle-9.6.0-rc-3-bin.zip",
       "sha": {
         "sha": "6e3106016ed5b19bfdef316441777a132cda19e167ad90015e053db423fb5dd6",
-        "type": "sha256"
-      }
-    },
-    {
-      "version": "9.6.0-20260616015404+0000",
-      "path": "/gradle-9.6.0-20260616015404+0000-bin.zip",
-      "sha": {
-        "sha": "c96affe65afe75da12acf656f486d004a674b627781dc9e57972616e35ff6da9",
         "type": "sha256"
       }
     },
