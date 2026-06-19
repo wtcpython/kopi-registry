@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updated": "2026-06-18T08:25:51.258444673+00:00",
+  "updated": "2026-06-19T08:53:49.019064504+00:00",
   "candidates": {
     "gradle": {
       "name": "Gradle",
-      "latest": "9.5.1",
+      "latest": "9.6.0",
       "detail": "candidates/gradle.json"
     },
     "hadoop": {

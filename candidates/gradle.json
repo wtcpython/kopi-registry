@@ -7,6 +7,14 @@
   },
   "versions": [
     {
+      "version": "9.6.0",
+      "path": "/gradle-9.6.0-bin.zip",
+      "sha": {
+        "sha": "bbaeb2fef8710818cf0e261201dab964c572f92b942812df0c3620d62a529a01",
+        "type": "sha256"
+      }
+    },
+    {
       "version": "9.5.1",
       "path": "/gradle-9.5.1-bin.zip",
       "sha": {
@@ -1335,10 +1343,10 @@
       }
     },
     {
-      "version": "9.7.0-20260618004045+0000",
-      "path": "/gradle-9.7.0-20260618004045+0000-bin.zip",
+      "version": "9.7.0-20260619004831+0000",
+      "path": "/gradle-9.7.0-20260619004831+0000-bin.zip",
       "sha": {
-        "sha": "f4c5c518aadb27a63f3bc0b42d77c093ea05df33fd64b820d342a32e6ad8ae1d",
+        "sha": "e1b548999d6a121df0eba394f0098f5789432d4f20be1a350d91e03195b13df5",
         "type": "sha256"
       }
     },
