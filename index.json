@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-06-20T07:36:25.927395737+00:00",
+  "updated": "2026-06-23T07:04:28.278448288+00:00",
   "candidates": {
     "gradle": {
       "name": "Gradle",
@@ -29,7 +29,7 @@
     },
     "tomcat": {
       "name": "Tomcat",
-      "latest": "11.0.22",
+      "latest": "11.0.23",
       "detail": "candidates/tomcat.json"
     }
   }
