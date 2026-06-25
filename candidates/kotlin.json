@@ -125,6 +125,10 @@
       "path": "/v1.8.0/kotlin-compiler-1.8.0.zip"
     },
     {
+      "version": "2.4.20-Beta1",
+      "path": "/v2.4.20-Beta1/kotlin-compiler-2.4.20-Beta1.zip"
+    },
+    {
       "version": "2.4.0-RC2",
       "path": "/v2.4.0-RC2/kotlin-compiler-2.4.0-RC2.zip"
     },
@@ -399,10 +403,6 @@
     {
       "version": "1.8.0-RC2",
       "path": "/v1.8.0-RC2/kotlin-compiler-1.8.0-RC2.zip"
-    },
-    {
-      "version": "1.8.0-RC",
-      "path": "/v1.8.0-RC/kotlin-compiler-1.8.0-RC.zip"
     }
   ]
 }
