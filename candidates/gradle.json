@@ -1351,10 +1351,10 @@
       }
     },
     {
-      "version": "9.7.0-20260629004031+0000",
-      "path": "/gradle-9.7.0-20260629004031+0000-bin.zip",
+      "version": "9.7.0-20260630004201+0000",
+      "path": "/gradle-9.7.0-20260630004201+0000-bin.zip",
       "sha": {
-        "sha": "29173f6e98fa8a45a87a5cc19468a2ded72797512c6fc85c197dcf6ff2bc85de",
+        "sha": "d9828e82cadcceca7d617f7c537b2e2ada4401b75c1e9653a657b2de29c1f088",
         "type": "sha256"
       }
     },
